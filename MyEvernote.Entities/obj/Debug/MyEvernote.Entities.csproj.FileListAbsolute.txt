@@ -1,0 +1,15 @@
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csprojResolveAssemblyReference.cache
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csprojResolveAssemblyReference.cache
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csprojResolveAssemblyReference.cache
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.pdb

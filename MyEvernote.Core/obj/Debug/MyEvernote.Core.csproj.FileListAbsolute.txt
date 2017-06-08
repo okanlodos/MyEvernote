@@ -1,0 +1,5 @@
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Core\bin\Debug\MyEvernote.Core.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Core\bin\Debug\MyEvernote.Core.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Core\obj\Debug\MyEvernote.Core.csprojResolveAssemblyReference.cache
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Core\obj\Debug\MyEvernote.Core.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.Core\obj\Debug\MyEvernote.Core.pdb

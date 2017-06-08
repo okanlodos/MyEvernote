@@ -1,0 +1,35 @@
+﻿@using MyEvernote.Entities.ViewModels;
+@model RegisterViewModel
+
+@{
+    ViewBag.Title = "Yönlendiriliyor..";
+}
+
+<link href="~/Content/Login-Register.css" rel="stylesheet" />
+
+@using (Html.BeginForm())
+{
+    <section class="login-info">
+        <div class="container">
+            <div class="row main">
+                <div class="form-header">
+                    <h1 class="text-center ">Yönlendiriliyor... </h1>
+                </div>
+                <div class="main-content">
+                    <h2><span class="glyphicon glyphicon-ok"></span>&nbsp;&nbsp;&nbsp;Kayıt Başarılı..</h2>
+                    <hr />
+                    <p class="text-justify">
+                        Lütfen emailinize gelen aktivasyon linkine tıklayarak üyeliğinizi aktif ediniz.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+<script>
+    $(function () {
+        setTimeout(function () {
+            window.location = "/home/index";
+        }, 3000);
+    });
+</script>

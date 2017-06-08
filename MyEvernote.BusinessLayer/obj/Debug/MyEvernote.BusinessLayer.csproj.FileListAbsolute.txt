@@ -1,0 +1,54 @@
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\fedai\Documents\Visual Studio 2015\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\fedai\Desktop\Yeni klasör\MyEvernote.WebApp\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.pdb
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.dll
+C:\Users\fedai\Documents\Visual Studio 2017\Projects\MyEvernote.WebApp\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.pdb
